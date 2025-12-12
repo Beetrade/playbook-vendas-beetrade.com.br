@@ -1,1 +1,0 @@
-# playbook-vendas-beetrade.com.br
